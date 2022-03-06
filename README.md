@@ -22,7 +22,7 @@
 
 
 #### 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deep-ramani-486954202?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHx0shoyRRBe9tK%2B5XfvBCg%3D%3D)    
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deep-ramani-486954202)    
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](#) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](#)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://gmail.com/deepramani8575@gmail.com) 
