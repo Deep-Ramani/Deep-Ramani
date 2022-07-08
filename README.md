@@ -1,6 +1,6 @@
 
 
-## Hi there, I'm  <font color="skyblue"> Deep Ramani</font> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there, I'm  <font color="skyblue"> Deep Ramani</font> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 ### Glad to see you here! &nbsp; [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Deep-Ramani.Deep-Ramani)](https://github.com/Deep-Ramani) [![GitHub followers](https://img.shields.io/github/followers/Deep-Ramani.svg?style=social&label=Follow)](https://github.com/Deep-Ramani?tab=followers)
 
