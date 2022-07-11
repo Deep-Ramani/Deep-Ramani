@@ -10,7 +10,7 @@
 **Talking about Personal Stuffs:**
 ### I'm Web developer !!
 
-- <i class="fas fa-briefcase"></i>
+- 👨🏻‍💻 Portfolio : https://portfolio-deep.netlify.app/
 - 👨🏻‍💻 I’m currently working on FrontEnd Developer At Simform Solutions;
 - 🚀  I’m interested in developing      projects with the latest technology.
 - 💬 Ask me about anything, I am happy to help;
