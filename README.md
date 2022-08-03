@@ -73,9 +73,15 @@
 <p>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deep-Ramani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deep-Ramani&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deep-Ramani&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
  
-    ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Deep-Ramani)  
+ <p align="center">
+  <a href="https://github.com/Deep-Ramani"><span>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deep-Ramani" />
+    </span></a>
+</p>
+ 
+   <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Deep-Ramani)  -->
   
 </p>
 
