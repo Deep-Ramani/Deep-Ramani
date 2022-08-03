@@ -82,7 +82,7 @@
 
 
 <p>
-<img src="assets/Dino_non-birthday_version.gif" width="890px" height="300px"/>
+<img src="assets/dino.gif" width="890px" height="300px"/>
 </p>
 
 
