@@ -72,9 +72,9 @@
 
 
 <div display="inline">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deep-Ramani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em"  width="45%" src="https://github-readme-stats.vercel.app/api?username=Deep-Ramani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <a href="https://github.com/Deep-Ramani"><span>
-  <img   height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Deep-Ramani" /></span>
+  <img   width="45%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Deep-Ramani" /></span>
  </a>
 </div>
 
